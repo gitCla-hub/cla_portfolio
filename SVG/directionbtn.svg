@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pc_landing" data-name="pc landing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.97 80.53">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ed80d1;
+      }
+
+      .cls-2 {
+        fill: #c8bdb3;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M84.76,77.5C64.29,55.5,48.95,31.12,42.38,2.69,36.16,30.9,23.37,56.39,0,77.5h84.76Z"/>
+  <g>
+    <rect class="cls-1" x="29.28" y="50.45" width="8.76" height="8.77"/>
+    <rect class="cls-1" x="46.81" y="50.45" width="8.77" height="8.77"/>
+    <rect class="cls-1" x="38.04" y="41.68" width="8.77" height="8.77"/>
+    <rect class="cls-1" x="38.04" y="59.22" width="8.77" height="8.77"/>
+  </g>
+</svg>
