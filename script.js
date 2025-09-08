@@ -67,7 +67,7 @@ navTexts.forEach(item => {
 
 const game = document.getElementById("game");
 // =======================
-// TẠO GRASS THEO GRID
+// @nohurryhen
 // =======================
 function createGrass() {
   game.querySelectorAll(".grass").forEach((g) => g.remove());
