@@ -68,6 +68,7 @@ navTexts.forEach(item => {
 const game = document.getElementById("game");
 // =======================
 // @nohurryhen
+//https://qwook.io/events/htmlday2025/~nohurryhen/
 // =======================
 function createGrass() {
   game.querySelectorAll(".grass").forEach((g) => g.remove());
